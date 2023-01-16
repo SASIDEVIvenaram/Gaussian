@@ -66,7 +66,7 @@ for i in range(n):
 ```
 
 ## Output:
-![](/gausianoutput.png)
+![output](/gausianoutput.png)
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
